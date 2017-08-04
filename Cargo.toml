@@ -18,6 +18,7 @@ num = "0.1"
 pad = "0.1"
 libc = "0.2"
 iso8601 = "0.1.0"
+redox_syscall = "0.1.29"
 
 [dev-dependencies]
 rustc-serialize = "0.3"
